@@ -1,7 +1,7 @@
 const sampleData = {
     labels: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
     datasets: [{
-      label: 'DAILY EXPENSES DURING CLASS HOURS',
+      label: 'DAILY EXPENSES DURING CLASS DAYS',
       data: [50, 100, 50, 100, 50, 100, 50, 100, 50, 100, 50, 80],
       backgroundColor: 'rgba(168, 56, 141, 0.8',
       borderColor: 'rgba(28, 255, 205, 0.91)',
